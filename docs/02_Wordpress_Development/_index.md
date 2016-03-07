@@ -1,0 +1,3 @@
+Wordpress is the go-to choice for many of our clients for a powerful CMS that is cost effective to integrate with. PHP is one of the most popular languages, and many developers are proficient with integrating Wordpress sites, which makes it the obvious choice for CMS driven sites. 
+
+That said, Wordpress comes with a large set of challenges that we have tried to solve over time. It's worth reading through these notes to understand the common pitfalls and ways we have improved or want to improve our build flow.

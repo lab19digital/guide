@@ -1,8 +1,8 @@
 {
-    "title": "DAUX.IO",
-    "tagline": "The Easiest Way To Document Your Project",
-    "author": "Justin Walsh",
-    "image": "app.png",
+    "title": "Lab 19 Digital",
+    "tagline": "Documentation for working with us",
+    "author": "Luke Siedle, Dave McMillan",
+    "image": "app.svg",
     "ignore": {
             "files": ["Work_In_Progress.md"],
             "folders": ["99_Not_Ready"]
@@ -12,21 +12,14 @@
         "clean_urls": true
     },
     "html": {
-        "theme": "daux-blue",
+        "theme": "daux-red",
         "breadcrumbs": true,
         "breadcrumb_separator": "Chevrons",
         "toggle_code": true,
         "date_modified": true,
-        "float": true,
-
-        "repo": "justinwalsh/daux.io",
-        "twitter": ["justin_walsh", "todaymade"],
-        "google_analytics": "UA-12653604-10",
+        "float": false,
         "links": {
-            "Download": "https://github.com/justinwalsh/daux.io/archive/master.zip",
-            "GitHub Repo": "https://github.com/justinwalsh/daux.io",
-            "Help/Support/Bugs": "https://github.com/justinwalsh/daux.io/issues",
-            "Made by Todaymade": "http://todaymade.com"
+            "Lab 19 Digital": "http://lab19digital.com"
         }
     }
 }

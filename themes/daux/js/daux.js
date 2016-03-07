@@ -60,7 +60,7 @@ function setCodeBlockStyle(x) {
             break;
         case 2:
             toggleCodeBlockBtn.html("Show Code Blocks Inline");
-            codeBlockView.addClass('float-view');
+            // codeBlockView.addClass('float-view');
             codeBlocks.removeClass('hidden');
             break;
     }

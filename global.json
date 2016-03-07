@@ -16,7 +16,7 @@
         "folders": []
     },
 
-    "timezone": "America/Los_Angeles",
+    "timezone": "Africa/Johannesburg",
 
     "live": {
         "inherit_index": false,
@@ -24,7 +24,7 @@
     },
 
     "html": {
-        "theme": "daux-blue",
+        "theme": "daux-red",
         "breadcrumbs": false,
         "toggle_code": false,
         "date_modified": false,
