@@ -1,0 +1,9 @@
+#!/usr/bin/env php
+<?php
+
+	`php generate`;
+	`git checkout --orphan gh-pages`;
+	`git rm -rf .`;
+	`git add static && git commit -m "Latest static build"`;
+	`git push origin gh-pages --force`;
+	`git checkout master`;
